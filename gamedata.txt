@@ -1,0 +1,16 @@
+Player name: random1
+Player choice: rock
+Computer choice: scissors
+
+Player name: random2
+Player choice: rock
+Computer choice: paper
+
+Player name: random3
+Player choice: rock
+Computer choice: rock
+
+Player name: random4
+Player choice: rock
+Computer choice: scissors
+
